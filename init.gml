@@ -1,0 +1,2 @@
+///WGML uses the game maker 8 version of GML which is over 10 years old at this point and NOT compatabile with the newer studio GML versions, all functions and syntax are compatabile with code up to v8.1 there are some functions added to make life easier(script_load(textfilename in working directory,number in the script array);script_run(number in the script array);)
+///the script array is a dumb way of handling multiple script files but its the only way i could pull it off in GML, again, this is an interpreter of GML written in GML by someone with not much coding experience
